@@ -15,3 +15,5 @@ python相关模块学习~~~
 > 与Mysql互作：InteractionMySQL
 >
 > 其他：Other
+>
+> matplotlib
